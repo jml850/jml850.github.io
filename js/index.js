@@ -49,7 +49,7 @@ const cuatro = {
 	probabilidad: 25
 }
 
-let conceptos = [uno,dos,tres,cuatro];
+let conceptos = [Blanco,Azul,Rojo,Negro];
 
 
 /** Pone a girar la ruleta y hace el sorteo del resultado */
