@@ -33,20 +33,20 @@ let suma = 0;
 
 /** Instancias de conceptos que se cargan al iniciar la app */
 const uno = {
-	nombre: "Uno",
-	probabilidad:20
+	nombre: "Blanco",
+	probabilidad:25
 }
 const dos = {
-	nombre: "Dos",
-	probabilidad: 20
+	nombre: "Azul",
+	probabilidad: 25
 }
 const tres = {
-	nombre: "Tres",
-	probabilidad: 30
+	nombre: "Rojo",
+	probabilidad: 25
 }
 const cuatro = {
-	nombre: "Cuatro",
-	probabilidad: 30
+	nombre: "Negro",
+	probabilidad: 25
 }
 
 let conceptos = [uno,dos,tres,cuatro];
