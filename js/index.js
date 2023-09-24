@@ -33,19 +33,19 @@ let suma = 0;
 
 /** Instancias de conceptos que se cargan al iniciar la app */
 const blanco = {
-	nombre: "blanco",
+	nombre: "Blanco",
 	probabilidad:25
 }
 const azul = {
-	nombre: "azul",
+	nombre: "Azul",
 	probabilidad: 25
 }
 const rojo = {
-	nombre: "rojo",
+	nombre: "Rojo",
 	probabilidad: 25
 }
 const negro = {
-	nombre: "negro",
+	nombre: "Negro",
 	probabilidad: 25
 }
 
