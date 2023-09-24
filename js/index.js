@@ -32,24 +32,24 @@ let suma = 0;
 
 
 /** Instancias de conceptos que se cargan al iniciar la app */
-const uno = {
-	nombre: "Blanco",
+const blanco = {
+	nombre: "blanco",
 	probabilidad:25
 }
-const dos = {
-	nombre: "Azul",
+const azul = {
+	nombre: "azul",
 	probabilidad: 25
 }
-const tres = {
-	nombre: "Rojo",
+const rojo = {
+	nombre: "rojo",
 	probabilidad: 25
 }
-const cuatro = {
-	nombre: "Negro",
+const negro = {
+	nombre: "negro",
 	probabilidad: 25
 }
 
-let conceptos = [Blanco,Azul,Rojo,Negro];
+let conceptos = [blanco,azul,rojo,negro];
 
 
 /** Pone a girar la ruleta y hace el sorteo del resultado */
